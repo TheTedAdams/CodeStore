@@ -86,7 +86,7 @@ namespace CodeStore
                 }
             }
 
-            tbxOutput.Text += "Output directory set to " + destination + ".\r\n";
+            tbxOutput.Text += "Output directory set to " + destination + "\r\n";
 
             /* *************************** */
             /* CHECK FOR VALID DESTINATION */
